@@ -172,10 +172,11 @@ The primary objectives of this project include:
 
 > **Dashboard Preview**
 
-```markdown
-![Dashboard](Dashboard/AI & Data Science Jobs Analystics Dashboard.png)
-![Dashboard](https://github.com/Daniyal07420/AI-Data-Science-Job-Market-Analysis-2026/blob/main/Dashboard/Business%20Insight.png?raw=true)
-![Dashboard](https://github.com/Daniyal07420/AI-Data-Science-Job-Market-Analysis-2026/blob/main/Dashboard/Executive%20Summary.png?raw=true)
+![Dashboard Page 1](AI%20%26%20Data%20Science%20Jobs%20Analystics%20Dashboard.png)
+
+![Dashboard Page 2](dashboard/dashboard_page2.png)
+
+![Dashboard Page 3](dashboard/dashboard_page3.png)
 ```
 
 ---
