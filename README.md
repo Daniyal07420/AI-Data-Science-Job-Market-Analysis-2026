@@ -911,40 +911,6 @@ Through this project, the following technical and analytical skills were strengt
 
 ---
 
-# 📷 Project Gallery
-
-## Executive Dashboard
-
-> Replace the image path after uploading your screenshots.
-
-```markdown
-![Dashboard](Dashboard%20Images/dashboard.png)
-```
-
----
-
-## Python Visualizations
-
-```markdown
-![Salary Distribution](Python/Images/salary_distribution.png)
-
-![Experience Analysis](Python/Images/experience_analysis.png)
-
-![Industry Analysis](Python/Images/industry_analysis.png)
-
-![Correlation Heatmap](Python/Images/heatmap.png)
-```
-
----
-
-## SQL Analysis
-
-```markdown
-![SQL Output](Dashboard%20Images/sql_analysis.png)
-```
-
----
-
 # 📈 Project Metrics
 
 | Metric | Value |
